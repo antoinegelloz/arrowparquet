@@ -3,7 +3,7 @@ module arrowparquet
 go 1.17
 
 require (
-	github.com/apache/arrow/go/v7 v7.0.0-20220202150424-fb5a4f6c4158
+	github.com/apache/arrow/go/v8 v8.0.0-20220406131650-e2287f9248e9
 	github.com/stretchr/testify v1.7.0
 )
 
@@ -25,11 +25,11 @@ require (
 	github.com/pmezard/go-difflib v1.0.0 // indirect
 	github.com/zeebo/xxh3 v1.0.1 // indirect
 	golang.org/x/exp v0.0.0-20211216164055-b2b84827b756 // indirect
-	golang.org/x/mod v0.6.0-dev.0.20211013180041-c96bc1413d57 // indirect
+	golang.org/x/mod v0.6.0-dev.0.20220106191415-9b9b3d81d5e3 // indirect
 	golang.org/x/net v0.0.0-20220127200216-cd36cc0744dd // indirect
-	golang.org/x/sys v0.0.0-20220128215802-99c3d69c2c27 // indirect
+	golang.org/x/sys v0.0.0-20220405210540-1e041c57c461 // indirect
 	golang.org/x/text v0.3.7 // indirect
-	golang.org/x/tools v0.1.9 // indirect
+	golang.org/x/tools v0.1.10 // indirect
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1 // indirect
 	google.golang.org/genproto v0.0.0-20220126215142-9970aeb2e350 // indirect
 	google.golang.org/grpc v1.44.0 // indirect
